@@ -17,7 +17,7 @@ adapt the config in `config/kafka2file.config`
 ```
 
 ## Start
-`/bin/ductus console kafka2file`
+`./bin/ductus console kafka2file`
 
 For further details please refer to [kafka_ductus](https://github.com/odo/kafka_ductus/).
 
